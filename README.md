@@ -8,6 +8,8 @@
 4. Сервер проверяет правильность данных и генерирует JWT токен, который затем отправляется пользователю.
 5. Если токен предоставлен пользовтелю, то ряд эндпоинтов будет теперь доступен ему автоматически, без токена - "Не авторизован"
 ![image](https://github.com/user-attachments/assets/8cc1ea80-cd21-42d5-81aa-fe0f09c89065)
+![image](https://github.com/user-attachments/assets/fccd65b9-5803-42d2-adc2-c11b70cc14b7)
+![image](https://github.com/user-attachments/assets/eceabfb4-c91b-4638-9bbd-c64d98a4bf18)
 
 ## Как запустить?
 - Запуск локально
