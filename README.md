@@ -21,11 +21,11 @@ uvicorn app.main:app --host 0.0.0.0 --port 8000
 
 - Запуск через Docker
 docker-compose up --build
-
+### Users
 | id (int) | username (varchar) | password_hash (varchar) |
 
 
-### Таблица links
+### links
 
 | id (int) | original_url (varchar) | short_code (varchar) | expires_at (int) | click_count (int) | created_at (datetime)     | last_used (datetime) | user_id (int) |
 
